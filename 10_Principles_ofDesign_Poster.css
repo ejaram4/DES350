@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #FFFFFF;
+}
+
+.circle1 {
+	background: linear-gradient(to bottom right, #89898c 30%, #ffffff 70%); 
+}
+
+.circle2 {
+	background: linear-gradient(to bottom left, #4b0cf4 30%, #FFFFFF 70%); 
+}
+
+.circle3 {
+	background: linear-gradient(to bottom right, #89898c 30%, #ffffff 70%); 
+}
+
+.circle4 {
+	background: linear-gradient(to bottom left, #4b0cf4 30%, #FFFFFF 70%); 
+}
+
+.circle5 {
+	background: linear-gradient(to bottom right, #89898c 30%, #ffffff 70%); 
+}
+
+.circle6 {
+	background: linear-gradient(to bottom left, #4b0cf4 30%, #FFFFFF 70%); 
+}
+
+.circle7 {
+	background: linear-gradient(to bottom right, #89898c 30%, #ffffff 70%); 
+}
+
+.circle8 {
+	background: linear-gradient(to bottom left, #4b0cf4 30%, #FFFFFF 70%); 
+}
+
+.circle9 {
+	background: linear-gradient(to bottom right, #89898c 30%, #ffffff 70%); 
+}
+
+.circle10 {
+	background: linear-gradient(to bottom left, #4b0cf4 30%, #FFFFFF 70%); 
+}
