@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+ background-image: url("paper.gif");
+ background-color: #000000;
+}
+
+style
+    body { 
+        margin: 0; 
+        padding: 0; 
+        background: green; 
+    } 
+  
+
+
+
