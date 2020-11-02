@@ -1,0 +1,658 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background: #110019;
+    min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.holder {
+    margin-left: 10px;
+}
+
+.blush2_circle {
+  animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #ffccd3;
+  }
+  100% {
+    background-color: #ff5663;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+.blush4_circle {
+    animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #ffccd3;
+  }
+  100% {
+    background-color: #ff5663;
+  }
+}
+
+html,
+body {
+  height: 100%;    
+}
+
+
+
+
+.eyespk_circle1 {
+  animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+.eyespk_circle2 {
+    animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+.eyespk_circle3 {
+    animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+.eyespk_circle4 {
+    animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.hair1_1_circle { 
+animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.hair2_2_circle {
+  animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.hair3_3_circle {
+    animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.hair4_4_circle {
+  animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.hair5_5_circle {
+   animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.hair6_6_circle {
+  animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.hair7_7_circle {
+   animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.hair8_8_circle {
+  animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.hair9_9_circle {
+  animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.hair10_10_circle {
+    animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.hair11_11_circle {
+   animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.hair1_1_bottomcircle {
+   animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.hair2_2_bottomcircle {
+   animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.hair2_2_centercircle {
+    animation: pulse1 5s infinite;
+}
+
+@keyframes pulse1 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ffffcc;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+
+
+
+.circle2 {
+   animation: pulse2 1s infinite;
+}
+
+@keyframes pulse2 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ccffff;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.circle3 {
+   animation: pulse2 1s infinite;
+}
+
+@keyframes pulse2 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ccffff;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.circle7 {
+  animation: pulse2 1s infinite;
+}
+
+@keyframes pulse2 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ccffff;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.circle8 {
+   animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.circle9 {
+  animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%;  
+}
+
+.circle10 {
+   animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%; 
+}
+
+.circle15 {
+	animation: pulse2 1s infinite;
+}
+
+@keyframes pulse2 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ccffff;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.circle16 {
+	animation: pulse2 1s infinite;
+}
+
+@keyframes pulse2 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ccffff;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.circle17 {
+	animation: pulse2 1s infinite;
+}
+
+@keyframes pulse2 {
+  0% {
+    background-color: #f2d0d9;
+  }
+  100% {
+    background-color: #ccffff;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.circle21 {
+	animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.circle22 {
+	animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.small_circle1 {
+	animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.small_circle2 {
+	animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.small_circle3 {
+	animation: pulse3 1s infinite;
+}
+
+@keyframes pulse3 {
+  0% {
+    background-color: #ffff00;
+  }
+  100% {
+    background-color: #FFFFFF;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
