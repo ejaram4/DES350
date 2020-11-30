@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background: linear-gradient(to bottom, #5e2947 20%, #351329 100%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
